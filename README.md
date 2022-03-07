@@ -1,2 +1,2 @@
-# Foundation-of-Machine-Learning-
+# Foundation-of-Machine-Learning
 lab reports and assignment
